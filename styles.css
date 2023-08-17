@@ -1,33 +1,30 @@
-/*  your css code here. If applicable */
-h1{
-		text-align:center;
-}
-#table-1{
-	
-	border:1px solid black;
+  /*  your css code here. If applicable */
+.middle{
+	margin:auto;
 	width:100%;
-}
-#table-2{
-	width:100%;
-	color:white;
-}
-#table-3{
-	width:100%;
-}
-#t21{
-	
-}
-#t3head{
-	color:green;
-	background-color:green;
-}
-#t3foot{
-	color:blue;
-	background-color:blue;
 }
 .center{
 	text-align:center;
 }
 .right{
 	text-align:right;
+}
+table{
+	border:1px solid black;
+	border-spacing:1px;
+}
+td{
+	padding:1px;
+	border:1px solid black;
+}
+.green{
+	background-color:green;
+	height:25px;
+}
+.blue{
+	background-color:blue;
+	height:25px;
+}
+#t-image{
+	width:0px;
 }
