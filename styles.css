@@ -2,9 +2,26 @@
 h1{
 		text-align:center;
 }
-#table1{
-	background-color:red;
+#table-1{
+	
+	border:1px solid black;
 	width:100%;
+}
+#table-2{
+	width:100%;
+	color:white;
+}
+#table-3{
+	width:100%;
+}
+#t21{
+	
+}
+#t3head{
+	background-color:green;
+}
+#t3foot{
+	background-color:blue;
 }
 .center{
 	text-align:center;
